@@ -25,7 +25,7 @@ Cada carpeta corresponde a una clase, y muestra un paso del mismo proyecto: desd
 
 | # | Clase | Qué hice | Link |
 |---|---|---|---|
-| 1 | Fundamentos y primeros pasos en R | Primeras variables, tipos de datos y exploración de un data frame | [`Clase1_Fundamentos_R.ipynb`](./clase-1-fundamentos/Clase1_Fundamentos_R.ipynb) |
+| 1 | Fundamentos y primeros pasos en R | Primeras variables, tipos de datos y exploración de un data frame | [`Clase1_Fundamentos_R.ipynb`](https://github.com/sebastianbarriosmentor/portafolio-visualizacion-datos/blob/main/clase-1-fundamentos/Clase1_Fundamentos_R.ipynb) |
 | 2 | EDA como lo hace un analista real | Diagnóstico de calidad de datos | (pendiente) |
 | 3 | Diseñar para audiencias distintas | Versión técnica y ejecutiva del análisis | (pendiente) |
 | 4 | Reportes automatizados | Reporte reproducible con R Markdown / Quarto | (pendiente) |
